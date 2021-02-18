@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">SIMKEDA</string>
+    <string name="mapbox_access_token">pk.eyJ1Ijoia2V2aW5wZXJkYW5hIiwiYSI6ImNrY291Y3hicTA1ZG8ycHM4ZXB1ZmUwaWUifQ.Cvtl3zkLhNELiB-ZMNrmKw</string>
 </resources>
